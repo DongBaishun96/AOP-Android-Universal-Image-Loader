@@ -1,0 +1,7 @@
+#Mon May 22 19:41:08 CST 2017
+base.0=F\:\\Android_Project\\Android-Universal-Image-Loader\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ee2ba617048d731668c19784db7d55a4f4219715
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=F\:\\Android_Project\\Android-Universal-Image-Loader\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6ba43736fbafc8e9064ec7ec6a09573117b2ab9c\\classes.dex
+base.1=F\:\\Android_Project\\Android-Universal-Image-Loader\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_6ba43736fbafc8e9064ec7ec6a09573117b2ab9c
+file.0=F\:\\Android_Project\\Android-Universal-Image-Loader\\sample\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_ee2ba617048d731668c19784db7d55a4f4219715\\classes.dex

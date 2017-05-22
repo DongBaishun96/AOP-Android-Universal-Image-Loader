@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Android_Project\Android-Universal-Image-Loader\sample\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="F:\Android_Project\Android-Universal-Image-Loader\sample\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_6ba43736fbafc8e9064ec7ec6a09573117b2ab9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android\gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.4.0\40340c0748190fe897baf7bffbc1b282734294e5\okhttp-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="F:\Android_Project\Android-Universal-Image-Loader\sample\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.4.0_382b2ac5adb10a491184468d50973129d7c8358a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Android_Project\Android-Universal-Image-Loader\sample\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bce1ea211f3659550bcaff0fb801467b4e1eb813">
+        <dex dex="F:\Android_Project\Android-Universal-Image-Loader\sample\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ee2ba617048d731668c19784db7d55a4f4219715\classes.dex" />
+    </item>
+
+</items>
